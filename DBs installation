@@ -7,5 +7,5 @@ https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_GettingStarted.Creat
 Installation of redis
 1. https://docs.aws.amazon.com/AmazonElastiCache/latest/red-ug/nodes-connecting.html
 
-Connection to DB
+Connection to elastic cache DB to connect
 https://docs.aws.amazon.com/AmazonElastiCache/latest/red-ug/GettingStarted.ConnectToCacheNode.html
